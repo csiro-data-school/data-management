@@ -26,6 +26,8 @@ Great use of google doc as an enabler
 
 Good introductions
 
+Good information supplied.
+
 ### **DOWN**
 
 Nothing
@@ -41,3 +43,23 @@ None.
 Pace a bit slow
 
 Roadmap or schematic showing how each section / topic fits into whole day.
+
+## Afternoon
+
+### **UP**
+
+Demo of DAP
+
+Descussion re licences
+
+Explanations are good, and useful
+
+Good information, thanks
+
+### **DOWN**
+
+Clarity around licences.
+
+Just not so captivating as other sessions.
+
+Information supplied too detailed - would have preferred to explore a bit and ask questions.
