@@ -56,6 +56,18 @@ Explanations are good, and useful
 
 Good information, thanks
 
+Plenty of project-specific and relevant information
+
+Need to start talks in teams to use it
+
+Discussion around DAP
+
+Great capture of everything talked about. 
+
+Excellent notes (maybe some slides would be good!)
+
+Thank you. Was very informative and well structured.
+
 ### **DOWN**
 
 Clarity around licences.
@@ -63,3 +75,19 @@ Clarity around licences.
 Just not so captivating as other sessions.
 
 Information supplied too detailed - would have preferred to explore a bit and ask questions.
+
+Explained future workflow for getting data in and clarifying ways forward.
+
+Afternoon - sleepy after lunch
+
+Shock of DAP, bigger than I thought
+
+Too short wanted more detail.
+
+Data sets required require more permissions that were indicated
+
+Pare back content and allow more time for activities like doing DAP
+
+Make DAP activity at start? Use it as a framework to explore FAIR
+
+Not to be rude but ... the conversation around permissiveness and openess got a bit tedious.
